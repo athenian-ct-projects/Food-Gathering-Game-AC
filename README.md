@@ -1,9 +1,5 @@
-# Assignment Description
+# Food Gathering Game AC '23
 
-written by 
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Food-Gathering-Game-AC)](https://repl.it/github/athenian-ct-projects/Food-Gathering-Game-AC)
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This is a game involving directions and gathering food, but I'm not sure where to put it
